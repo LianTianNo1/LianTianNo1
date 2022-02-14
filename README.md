@@ -1,11 +1,8 @@
-### Hi👋I'm 浪清
+### Hi👋I'm 子浪
 #### 万般皆是浪，唯独自诩清
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=LianTianNo1&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LianTianNo1&layout=compact" />
-
-<img align="bottom" style="marign:100%;" src="https://gitee.com/lang-tian/image_upload/raw/master/img/282E3FB50B8F46F1AF8DADB38469A6B6.jpg" />
-
 
 
 
